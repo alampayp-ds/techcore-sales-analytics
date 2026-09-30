@@ -2,6 +2,21 @@
 
 Pipeline completo de datos de ventas de una cadena de tiendas de computadoras: limpieza de 30,000 facturas, construcción de un modelo relacional y un **dashboard interactivo en Power BI** con KPIs de negocio.
 
+![Dashboard de ventas TechCore en Power BI](images/dashboard_general.png)
+
+<details>
+<summary><b>Ver el dashboard con filtros aplicados</b></summary>
+
+**Filtrado por Bogotá:** todos los visuales y KPIs se recalculan para una sola ciudad.
+
+![Dashboard filtrado por Bogotá](images/dashboard_bogota.png)
+
+**Selección múltiple (Bogotá, Cali y Medellín):**
+
+![Dashboard con varias ciudades seleccionadas](images/dashboard_multiples_ciudades.png)
+
+</details>
+
 ## Resultados clave
 
 - **Medellín** es la ciudad con más ventas de las 4 analizadas (Bogotá, Cali, Medellín, Pereira).
